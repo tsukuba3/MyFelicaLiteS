@@ -1,0 +1,6 @@
+LIBRARY
+
+EXPORTS
+
+Java_Koneko_set @1
+Java_Koneko_felica @2
